@@ -4,4 +4,4 @@
 
 **CSC 2053 — Spring 2026**
 
-Click the badge above to open the lab notebook in Google Colab. No setup required — just open and run.
+Click the badge above to open the lab notebook in Google Colab.
